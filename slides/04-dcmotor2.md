@@ -1,0 +1,5 @@
+- one amongst many
+- cheap and common
+- easy to control
+- "low tech"
+- used in Dynamo

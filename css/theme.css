@@ -146,4 +146,17 @@ body {
 .reveal .slide-number {
   color: #13DAEC; }
 
+.reveal section img {
+  background: none;
+  border: 0 solid #eee;
+  box-shadow: none; }
+
+.reveal table {
+  margin: 0 auto;
+  float: left; }
+  .reveal table td {
+    text-align: center; }
+  .reveal table tr:nth-child(even) {
+    background-color: rgba(0, 0, 0, 0.3); }
+
 /*# sourceMappingURL=theme.css.map */

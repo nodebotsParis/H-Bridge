@@ -1,5 +1,15 @@
 [
     "index.md",
-    "before-we-start.html",
-    "switch-it-on.md"
+    "01-before-we-start.html",
+    "02-prelude.html",
+    "03-dcmotor.md",
+    "04-dcmotor2.md",
+    "05-dcmotor3.md",
+    "06-dcmotor4.md",
+    "07-pushbuton.md",
+    "08-round-one.md",
+    "09-round-one-2.md",
+    "10-round-one-3.md",
+    "11-states.md",
+    "12-build.md"
 ]

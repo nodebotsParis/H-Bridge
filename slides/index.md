@@ -1,10 +1,6 @@
 
-# H bridge, or my fist burnttransistor
+# H bridges
+##(or my fist burnt transistors)
 
-From the terminal, pop in:
+a story about motors, directions and "bananes flambées"
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
